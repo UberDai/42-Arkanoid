@@ -17,7 +17,7 @@ Implemented features :
 ### Screenshots
 ![Screenshot](screenshot1.jpg?raw=true)
 
-*No font allowed, so we used a charmap texture to write text. Yep, kinda crappy looking.*
+*No font allowed, so we used a charmap texture to write text.*
 
 ![Screenshot](screenshot2.jpg?raw=true)
 
